@@ -138,9 +138,61 @@ section{
     margin-top: 20px;
 }
 
+.btn-main{
+    line-height: 80px;
+    padding:10px;
+    background-color: cadetblue;
+    color: white;
+}
 
 
 
 
+/* footer */
 
 
+
+
+footer{
+    padding-top: 30px;
+    margin-top: 30px;
+    height: 500px;
+    background-color: rgb(49, 97, 224);
+    color: white;
+}
+footer .container .container-footer-list{
+    height: 300px;
+    text-align:left;
+}
+footer .container .container-footer-list .col{
+    text-align:left;
+
+}
+
+footer .container .list ol{
+    padding-left: 20%;    
+    list-style-type: none;
+}
+footer .container .list ol li{
+    text-align:start;
+}
+
+.title-list-footer{
+    color: red;
+}
+
+.footer-btn{
+    line-height: 15px;
+    padding: 8px;
+    margin: 20px 0px 0px 80%;
+    background-color: cadetblue;
+    color: white;
+}
+
+.bandiera-italia{
+    height: 30px;
+}
+.logo-footer{
+    margin-top: 20px;
+}
+        
